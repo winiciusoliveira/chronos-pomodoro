@@ -1,0 +1,16 @@
+.heading {
+  display: flex;
+  justify-content: center;
+  color: rgba(0, 0, 0, 10.5);
+  font-weight: bold;
+  border: 1px solid white;
+  color: var(--text-default);
+  margin: 1em auto;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2.4rem;
+}

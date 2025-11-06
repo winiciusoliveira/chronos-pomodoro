@@ -1,0 +1,27 @@
+{
+  "plugins": [
+    "prettier-plugin-sort-json",
+    "prettier-plugin-packagejson",
+    "prettier-plugin-multiline-arrays",
+    "prettier-plugin-organize-imports",
+    "prettier-plugin-jsdoc"
+  ],
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": true,
+  "bracketSameLine": true,
+  "printWidth": 600,
+  "proseWrap": "always",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "endOfLine": "lf",
+  "tabWidth": 4,
+  "trailingComma": "all",
+  "useTabs": false,
+  "multilineArrayWrapThreshold": 50
+}

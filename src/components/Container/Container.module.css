@@ -1,0 +1,13 @@
+/* Com o container fluid você consegue preencher toda a tela */
+.containerFluid {
+  max-width: auto;
+}
+
+.container {
+  max-width: 98rem;
+  margin: 0 auto;
+}
+
+.content {
+  margin: 3.2rem;
+}
